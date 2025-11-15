@@ -41,8 +41,8 @@ export default function Projects() {
       category: 'Enterprise Application',
       image: 'https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=800&q=80',
       description: 'Système complet de gestion des commandes fournisseurs et stock avec valorisation FIFO pour l\'entreprise Tricol',
-      githubUrl: 'https://github.com/Souhail-imarraine/tricol-stock-management',
-      liveUrl: 'https://tricol-stock-fifo.vercel.app',
+      githubUrl: 'https://github.com/Souhail-imarraine/Gestion-d-approvisionnement',
+      liveUrl: '#',
       technologies: ['Spring Boot', 'Angular', 'PostgreSQL', 'REST API', 'FIFO Algorithm', 'Docker']
     },
     {
