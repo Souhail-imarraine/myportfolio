@@ -33,17 +33,17 @@ export default function Projects() {
       image: 'img_project/general-practitioner.jpg',
       description: 'Doctors Reservation Management System',
       githubUrl: 'https://github.com/Souhail-imarraine/WeCare',
-      liveUrl: 'https://wecare-demo.vercel.app',
+      liveUrl: '#',
       technologies: ['Laravel', 'Blade', 'MySQL', 'Tailwind CSS', 'ajax','javaScript']
     },
     {
-      title: 'Task Management App',
-      category: 'Mobile App',
-      image: 'https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=800&q=80',
-      description: 'Collaborative task tracking application for teams',
-      githubUrl: 'https://github.com/Souhail-imarraine/task-management',
-      liveUrl: 'https://task-management-demo.vercel.app',
-      technologies: ['React Native', 'Firebase', 'Redux', 'TypeScript']
+      title: 'Tricol - Gestion Stock FIFO',
+      category: 'Enterprise Application',
+      image: 'https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=800&q=80',
+      description: 'Système complet de gestion des commandes fournisseurs et stock avec valorisation FIFO pour l\'entreprise Tricol',
+      githubUrl: 'https://github.com/Souhail-imarraine/tricol-stock-management',
+      liveUrl: 'https://tricol-stock-fifo.vercel.app',
+      technologies: ['Spring Boot', 'Angular', 'PostgreSQL', 'REST API', 'FIFO Algorithm', 'Docker']
     },
     {
       title: 'my healthQr ',
