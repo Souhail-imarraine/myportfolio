@@ -86,18 +86,18 @@ export default function Projects() {
       technologies: ['React Native', 'Firebase', 'Redux', 'TypeScript']
     },
     {
-      title: 'Restaurant Website',
+      title: 'my healthQr ',
       category: 'Web Design',
-      image: 'https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&q=80',
+      image: 'img_project/myhealthqr.png',
       description: 'Modern restaurant website with online ordering system',
-      githubUrl: 'https://github.com/Souhail-imarraine/restaurant-website',
+      githubUrl: 'https://github.com/Souhail-imarraine/myhealthqr',
       images: [
         'https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=1200&q=80',
         'https://images.unsplash.com/photo-1514933651103-005eec06c04b?w=1200&q=80',
         'https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=1200&q=80',
         'https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=1200&q=80'
       ],
-      technologies: ['Next.js', 'Tailwind CSS', 'Prisma', 'PostgreSQL']
+      technologies: ['React', 'Vite', 'Tailwind CSS', 'Node.js', 'Express', 'MySQL', 'Sequelize', 'Socket.IO', 'JWT']    
     },
     {
       title: 'Real Estate Portal',
