@@ -220,7 +220,7 @@ export default function Hero() {
           
             {/* CTA Button */}
             <a
-              href="/Cv.pdf"
+              href="/CV.pdf"
               download
               className="group relative px-8 py-4 bg-white text-black font-semibold rounded-full overflow-hidden transition-all duration-300 hover:scale-105 hover:shadow-2xl border-2 border-transparent hover:border-white lg:self-start animate-slide-up font-mono"
               style={{ animationDelay: '1s' }}
